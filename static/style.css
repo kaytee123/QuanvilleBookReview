@@ -1,0 +1,74 @@
+body {
+  min-width: 300px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 500;
+}
+
+.bold-title {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+}
+
+.frite {
+ font-family: 'Oswald', sans-serif;
+ text-transform: uppercase;
+}
+
+/*--Buttons--*/
+.update-buttons-resize {
+    width: 100%;
+}
+
+.card-content .btn {
+    width: 100%;
+}
+
+.card-reveal .btn {
+    width: 50%;
+}
+
+/*--Star ratings--*/
+.star-rating-container{
+    width: 50%;
+}
+
+.review-rating {
+    width: 100px;
+}
+
+.main-review-rating {
+    width: 150px;
+}
+
+/*--Margins--*/
+.margin-top {
+    margin-top: 20px;
+}
+
+.margin-bottom-0 {
+    margin-bottom: 0px !important;
+}
+
+.margin-top-0 {
+    margin-top: 0px !important;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+/*--cards--*/
+.close-reveal, .open-reveal {
+    position: absolute;
+    right: 15px;
+}
+
+.hr-card {
+    margin-bottom: 10px;
+}
+
+.card-image-element {
+    margin-top: 27px;
+    height: 220px;
+    object-fit: scale-down;
+}
